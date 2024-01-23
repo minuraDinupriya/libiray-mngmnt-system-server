@@ -7,7 +7,11 @@ W
 'src/main/java/org/example/dto/Book.java,c\f\cf5f7fdc65c0132cb67ebc451e34b4f11f6c412c
 h
 8src/main/java/org/example/controller/BookController.java,8\6\863c0ee3b55362ba745c83019ab8ca6f55e08955
-e
-5src/main/java/org/example/repository/BookService.java,8\6\865b1b0a7ce80a4ad51c4641480aeb7a2271e1f7
-n
->src/main/java/org/example/repository/impl/BookServiceImpl.java,6\7\678eccee721372cce6eeb066675c18f06637fd27
+b
+2src/main/java/org/example/service/BookService.java,4\e\4e0afb3f42ab32527a23feda117f6bd25e7844be
+h
+8src/main/java/org/example/repository/BookRepository.java,b\7\b7783d39ca81aa027ce3a0f700c9f233ca4aa9da
+`
+0src/main/java/org/example/entity/BookEntity.java,8\e\8e7bab507d9e728ef6cf98c958018520dba04ab5
+k
+;src/main/java/org/example/service/impl/BookServiceImpl.java,4\9\49c61c65e1d97bd6e476160a50bd22ce21ce79d8
